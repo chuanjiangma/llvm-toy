@@ -1,1 +1,1 @@
-# Cpp project template
+# llvm toy language and compiler
